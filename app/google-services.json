@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1058587087143",
+    "firebase_url": "https://voyager-de0c1.firebaseio.com",
+    "project_id": "voyager-de0c1",
+    "storage_bucket": "voyager-de0c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058587087143:android:46499b2c5dd1166a",
+        "android_client_info": {
+          "package_name": "com.sungwoo.voyager.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058587087143-sctkeatnet7b2fkb42g4q4hgicbt6vuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbWNmEdGWNTSg6SUgSd5yN_9LOTHTlNgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058587087143-sctkeatnet7b2fkb42g4q4hgicbt6vuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
