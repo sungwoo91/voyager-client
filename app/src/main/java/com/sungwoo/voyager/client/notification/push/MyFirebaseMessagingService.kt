@@ -1,4 +1,4 @@
-package com.sungwoo.voyager.client
+package com.sungwoo.voyager.client.notification.push
 
 import android.util.Log
 import com.google.firebase.messaging.FirebaseMessagingService

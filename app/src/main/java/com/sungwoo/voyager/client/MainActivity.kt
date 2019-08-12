@@ -24,6 +24,8 @@ class MainActivity : AppCompatActivity() {
                 // Get new Instance ID token
                 val token = task.result?.token
 
+                Log.d("MainActivity", token);
+
                 // Log and toast
                 val msg = token
                 Log.d("MainActivity", msg)
